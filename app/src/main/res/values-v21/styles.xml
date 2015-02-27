@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.Flickr" parent = "Theme.base">
-        <item name = "android:navigationBarColor">?colorPrimary</item>
+        <item name = "android:navigationBarColor">@color/md_blue_500</item>
     </style>
 </resources>
